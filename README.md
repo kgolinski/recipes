@@ -1,9 +1,4 @@
-# Chicken Butter Masala
+# Spis treści
 
-## Składniki
-
-* [ ] Majonez
-* [ ] Cośtam
-* [ ] 
-1. pierwszy krok
-
+* [Saag Paneer](saagpaneer.md)
+* ...
