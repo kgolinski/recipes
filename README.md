@@ -4,31 +4,32 @@
 
 * [Avgolemono](zupy/avglem.md)
 * [Kminkowa](zupy/zupkmi.md)
+* Tom Ka Gai
 
 ## Dania główne
 
 * [Saag Paneer](dania_glowne/saagpaneer.md)
 * [Chicken Butter Masala](dania_glowne/masala.md)
+* Polędwica wieprzowa w sosie musztardowym
+* Czerwone Curry
+* Zielone Curry
+* Penne Mozzafiato
+* Pierogi ruskie
 
 ## Dodatki
 
 * [Hummus](dodatki/hummus.md)
+* Pasztet ze słonecznika i suszonych pomidorów
+* Ryż do sushi
+* Pikantna oliwa
+* Ciasto na pizze
 
 ## Desery
 
 * [Ciasto cytrynowe](desery/ciastocytrynowe.md)
+* Babka cynamonowa
 
-*  Babka cynamonowa
-*  Czerwone Curry
-*  Hummus
-*  Konfitura z czerwonej cebuli
-*  Chicken Butter Masala
-*  Pasztet ze słonecznika i suszonych pomidorów
-*  Penne Mozzafiato
-*  Pierogi ruskie
-*  Pikantna oliwa
-*  Polędwica wieprzowa w sosie musztardowym
-*  Ryż do sushi
-*  Tom Ka Gai
-*  Zielone Curry
-*  Zupa kminkowa
+## Przetwory 
+
+* Konfitura z czerwonej cebuli
+* Konfitura francuska
