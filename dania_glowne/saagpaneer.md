@@ -5,7 +5,7 @@
 * [ ] gaza
 
 * [ ] 1 łyżeczka soli
-* [ ] 1 kurkumy
+* [ ] 1 łyżeczka kurkumy
 * [ ] 1/2 łyżeczki chilli
 * [ ] 5 łyżeczek Garam Masala
 * [ ] 300g posiekanego szpinaku
