@@ -3,16 +3,21 @@
 ## Zupy
 
 * [Avgolemono](zupy/avglem.md)
+* [Kminkowa](zupy/zupkmi.md)
 
 ## Dania główne
 
 * [Saag Paneer](dania_glowne/saagpaneer.md)
+* [Chicken Butter Masala](dania_glowne/masala.md)
+
+## Dodatki
+
+* [Hummus](dodatki/hummus.md)
 
 ## Desery
 
 * [Ciasto cytrynowe](desery/ciastocytrynowe.md)
 
-*  Avgolemono
 *  Babka cynamonowa
 *  Czerwone Curry
 *  Hummus
