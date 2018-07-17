@@ -1,20 +1,19 @@
-#SAAG PANEER
+# SAAG PANEER
 
-For the Paneer:
-2 litry mleka 3,2%
-1/2 szklanki soku z cytryny
-gaza
+* [ ] 2 litry mleka 3,2%
+* [ ] 1/2 szklanki soku z cytryny
+* [ ] gaza
 
-1 łyżeczka soli
-1 kurkumy
-1/2 łyżeczki chilli
-5 łyżeczek Garam Masala
-300g posiekanego szpinaku
-1 cebula
-1 papryczka zielona
-5cm imbiru
-4 - 6 ząbków czosnku
-1 szklanka jogurtu
+* [ ] 1 łyżeczka soli
+* [ ] 1 kurkumy
+* [ ] 1/2 łyżeczki chilli
+* [ ] 5 łyżeczek Garam Masala
+* [ ] 300g posiekanego szpinaku
+* [ ] 1 cebula
+* [ ] 1 zielona papryczka
+* [ ] 5cm imbiru
+* [ ] 4 - 6 ząbków czosnku
+* [ ] 1 szklanka jogurtu
 
 Zagotuj mleko, dodaj sok z cytryny. Pogotuj 5 min. Odstaw na kolejne 5 min. Odcedź na gazie, zwiń i powieś na chwilę do odcieknięcia.
 Połóż na ręczniku papierowym między talerzami w lodówce.
