@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+  text-transform: uppercase;
+}
+
 .task-list {
   border: 1px solid #eee;
   border-radius: 5px;
