@@ -27,7 +27,7 @@
 ## Desery
 
 * [Ciasto cytrynowe](desery/ciastocytrynowe.md)
-* Babka cynamonowa
+* [Babka cynamonowa](desery/babcyn.md)
 
 ## Przetwory 
 

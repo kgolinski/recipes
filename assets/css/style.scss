@@ -4,8 +4,13 @@
 @import "{{ site.theme }}";
 
 .task-list {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: .95em;
   list-style: none;
-  padding: 0;
+  padding: 20px;
+  width: auto;
 
   .task-list-item input {
     margin-right: 10px;

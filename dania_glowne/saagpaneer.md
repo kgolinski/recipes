@@ -1,5 +1,7 @@
 # SAAG PANEER
 
+## Składniki
+
 * [ ] 2 litry mleka 3,2%
 * [ ] 1/2 szklanki soku z cytryny
 * [ ] gaza
