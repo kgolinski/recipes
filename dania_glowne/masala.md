@@ -26,7 +26,7 @@ Sos:
 * [ ] 1/2 lyzki cukru
 * [ ] świeża kolendra
 
-Zmiksuj skladniki marynaty, wymieszaj z tofu. Odstaw na pol godziny, nastepnie wstaw do bardzo goracego piekarnika na 10 min.
+Zmiksuj skladniki marynaty, wymieszaj z tofu. Odstaw na pół godziny, nastepnie wstaw do bardzo goracego piekarnika na 10 min.
 Ostudz. Pomidory zmiksuj, przetrzyj przez sitko. Rozgrzej maslo, podsmaz czosnek i imbir.
 Gdy zaczna pachniec, dodaj garam masala, kozieradke i chilli. Smaz 5minut, dodaj pomidory, wymieszaj z orzechamu i dopraw cukrem.
 Zmniejsz ogien i podgrzewaj 10min. Wymieszaj ze smietana, przypraw sola i cukrem. Do sosu wloz upieczone tofu, posyp kolendra. Podawaj z plackami naan lub ryzem.
