@@ -1,4 +1,4 @@
-# CHUTNEY Z ANTONÓWEK (LUB SZARYCH RENET)
+# Chutney z antonówek (lub szarych renet)
 
 ## Składniki
 

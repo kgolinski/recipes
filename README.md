@@ -1,22 +1,22 @@
-# Spis treści
+## Spis treści
 
-## Zupy
+### Zupy
 
 * [Avgolemono](zupy/avglem.md)
 * [Kminkowa](zupy/zupkmi.md)
 * Tom Ka Gai
 
-## Dania główne
+### Dania główne
 
 * [Saag Paneer](dania_glowne/saagpaneer.md)
 * [Chicken Butter Masala](dania_glowne/masala.md)
-* Polędwica wieprzowa w sosie musztardowym
+* [Polędwica wieprzowa w sosie musztardowym](dania_glowne/poljab.md)
 * Czerwone Curry
 * Zielone Curry
 * Penne Mozzafiato
 * Pierogi ruskie
 
-## Dodatki
+### Dodatki
 
 * [Hummus](dodatki/hummus.md)
 * Pasztet ze słonecznika i suszonych pomidorów
@@ -24,12 +24,12 @@
 * Pikantna oliwa
 * Ciasto na pizze
 
-## Desery
+### Desery
 
 * [Ciasto cytrynowe](desery/ciastocytrynowe.md)
 * [Babka cynamonowa](desery/babcyn.md)
 
-## Przetwory 
+### Przetwory 
 
 * [Konfitura z gorzkich pomarańczy](przetwory/konpom.md)
 * [Chutney z antonówek](przetwory/chuant.md)

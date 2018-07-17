@@ -1,4 +1,4 @@
-#PALUCHY DROŻDŻOWE
+# PALUCHY DROŻDŻOWE
 Przepis na paluchy znalazłam w "Kuchni domowej...". Skoro już mam książki kucharskie, to trzeba też z nich korzystać ;) a nie tylko podziwiać na półce :D
 
 Składniki:

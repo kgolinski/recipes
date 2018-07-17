@@ -1,4 +1,4 @@
-# KONFITURA Z GORZKICH POMARAŃCZY
+# Konfitura z gorzkich pomarańczy
 
 ## Składniki
 
