@@ -1,6 +1,6 @@
 # AVGOLEMONO
 
-## Składniki:
+## Składniki
 
 * [ ] 6-7 szklanek wywaru z kurczaka
 * [ ] 1/2 szklanki ryżu

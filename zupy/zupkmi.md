@@ -1,6 +1,6 @@
 # ZUPA KMINKOWA
 
-## Składniki:
+## Składniki
 
 * [ ] 3 łyżki kminku 
 * [ ] łyżka masła

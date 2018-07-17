@@ -31,5 +31,7 @@
 
 ## Przetwory 
 
-* Konfitura z czerwonej cebuli
+* [Konfitura z gorzkich pomarańczy](przetwory/konpom.md)
+* [Chutney z antonówek](przetwory/chuant.md)
+* [Konfitura z czerwonej cebuli](przetwory/konceb.md)
 * Konfitura francuska
