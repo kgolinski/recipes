@@ -1,6 +1,6 @@
-#HUMMUS
+# Hummus
 
-Składniki:
+## Składniki
 
 * 5 łyżek ziaren sezamu (albo tahini)
 * 2 łyżki oliwy extra vergine

@@ -1,4 +1,4 @@
-# AVGOLEMONO
+# Avgolemono
 
 ## Składniki
 

@@ -1,6 +1,6 @@
-#PENNE MOZZAFIATO
+# Penne Mozzafiato
 
-Składniki:
+## Składniki
 
 * 40 dag penne
 * 7 dag sera gorgonzola

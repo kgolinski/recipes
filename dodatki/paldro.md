@@ -2,7 +2,7 @@
 
 Przepis na paluchy znalazłam w "Kuchni domowej...". Skoro już mam książki kucharskie, to trzeba też z nich korzystać ;) a nie tylko podziwiać na półce :D
 
-## Składniki:
+## Składniki
 25 g drożdży
 150 ml wody
 2 łyżki oleju

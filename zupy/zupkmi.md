@@ -1,4 +1,4 @@
-# ZUPA KMINKOWA
+# Zupa kminkowa
 
 ## Składniki
 
