@@ -19,10 +19,12 @@
 ### Dodatki
 
 * [Hummus](dodatki/hummus.md)
+* [Pasta z fasoli](dodatki/pasfas.md)
 * Pasztet ze słonecznika i suszonych pomidorów
 * Ryż do sushi
 * Pikantna oliwa
 * Ciasto na pizze
+
 
 ### Desery
 
