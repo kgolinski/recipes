@@ -2,10 +2,10 @@
 
 ## Składniki
 
-* [ ] 400g = 3 szkl. mąki (najlepiej typ 650, o zawartości białka min 10g, ale może to być tez zwykła mąka lub maka orkiszowa biała)
-* [ ] 330g = 1,5 szklanki wody
-* [ ] 8g = 1,25 łyżeczki soli
-* [ ] 1g = 0,25 łyżeczki drożdży instant
+* [ ] 400g (3 szkl.) mąki (najlepiej typ 650, o zawartości białka min 10g, ale może to być też zwykła mąka lub maka orkiszowa biała)
+* [ ] 330g (1,5 szkl.) wody
+* [ ] 8g (1,25 łyżeczki) soli
+* [ ] 1g (0,25 łyżeczki) drożdży instant
 
 To jest cudownie prosty sposób na przygotowanie domowego chleba.  Ważne jest naczynie w jakim chleb będzie się piekł, który nagrzewamy wcześniej - najlepiej, gdyby był to żeliwny garnek, który szybko odda ciepło ciastu chlebowemu, ale może to być również garnek metalowy z przykrywką, która nadaje się do pieca. Piekarnik wraz z naczyniem do pieczenia nagrzewamy do 270°C, a po wstawieniu chleba od razu obniżamy temperaturę do 230°C.
 

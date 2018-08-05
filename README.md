@@ -18,6 +18,8 @@
 
 ### Dodatki
 
+* [Chleb](dodatki/chleb.md)
+* [Paluchy drożdzowe](dodatki/paldro.md)
 * [Hummus](dodatki/hummus.md)
 * [Pasta z fasoli](dodatki/pasfas.md)
 * Pasztet ze słonecznika i suszonych pomidorów
