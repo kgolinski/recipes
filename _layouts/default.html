@@ -41,9 +41,10 @@
       <section>
 
       {{ content }}
-      <pre>
-        {{ page }}
-      </pre>
+      
+      {% if page.url == "/" %}
+        
+      {% endif %}
       </section>
       <footer>
         {% if site.github.is_project_page %}
