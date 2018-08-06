@@ -2,3 +2,14 @@ title: Przepisy
 description: Książka kucharska
 theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
+categories: 
+  - name: Zupy
+    dir: zupy
+  - name: Dania główne
+    dir: dania_glowne
+  - name: Dodatki
+    dir: dodatki
+  - name: Desery
+    dir: desery
+  - name: Przetwory
+    dir: przetwory
