@@ -1,4 +1,4 @@
-# BABKA CYNAMONOWA
+# Babka cynamonowa
 
 ## Składniki
 
