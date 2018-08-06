@@ -44,7 +44,7 @@
       
       {% if page.url == "/" %}
         TU
-        {% for cat in site.categories %}
+        {% for cat in site.dirs %}
         ### {{ cat.name }}
         <ul>
           {% for page in site.pages %}
