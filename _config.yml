@@ -4,12 +4,12 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 categories: 
   - name: Zupy
-    dir: zupy
+    dir: /zupy/
   - name: Dania główne
-    dir: dania_glowne
+    dir: /dania_glowne/
   - name: Dodatki
-    dir: dodatki
+    dir: /dodatki/
   - name: Desery
-    dir: desery
+    dir: /desery/
   - name: Przetwory
-    dir: przetwory
+    dir: /przetwory/

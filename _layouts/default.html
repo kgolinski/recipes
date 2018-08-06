@@ -48,7 +48,7 @@
         ### {{ cat.name }}
         <ul>
           {% for page in site.pages %}
-            {% if page.dir == "/" | append: cat.dir | append: "/" %}
+            {% if page.dir == cat.dir %}
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}  <!-- page-category -->
           {% endfor %}  <!-- page -->
