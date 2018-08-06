@@ -41,13 +41,10 @@
       <section>
 
       {{ content }}
-      <pre>
-        {% for pg in site.pages %}
-          {{ pg }}
-        {% endfor %}
-      </pre>
+      
       {% if page.url == "/" %}
-        {% for cat in site.category-list %}
+        TU
+        {% for cat in site.categories %}
         ### {{ cat }}
         <ul>
           {% for page in site.pages %}
