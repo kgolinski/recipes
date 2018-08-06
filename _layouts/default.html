@@ -42,7 +42,9 @@
 
       {{ content }}
       <pre>
-        {{site.pages}}
+        {% for pg in site.pages %}
+          {{ pg }}
+        {% endfor %}
       </pre>
       {% if page.url == "/" %}
         {% for cat in site.category-list %}
