@@ -50,10 +50,10 @@
           {% for page in site.pages %}
             {% if page.dir == cat.dir %}
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-            {% endfor %}  <!-- page-category -->
-          {% endfor %}  <!-- page -->
+            {% endif %}
+          {% endfor %}
         </ul>
-        {% endfor %}  <!-- cat -->
+        {% endfor %}
       {% endif %}
       </section>
       <footer>
