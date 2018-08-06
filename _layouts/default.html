@@ -45,10 +45,10 @@
       {% if page.url == "/" %}
         TU
         {% for cat in site.categories %}
-        ### {{ cat }}
+        ### {{ cat.name }}
         <ul>
           {% for page in site.pages %}
-            {% if page.dir == "/"+cat"/" %}
+            {% if page.dir == "/" | append: cat.dir | append: "/" %}
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endfor %}  <!-- page-category -->
           {% endfor %}  <!-- page -->
