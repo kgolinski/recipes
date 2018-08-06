@@ -1,5 +1,3 @@
-## Spis treści
-
 ### TODO
 
 * Tom Ka Gai

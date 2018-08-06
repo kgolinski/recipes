@@ -39,10 +39,8 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content }}
-      
       {% if page.url == "/" %}
+        <h2 id="spis-treści">Spis treści</h2>
         {% for cat in site.dirs %}
         <h3 id="{{cat.dir}}">{{ cat.name }}</h3>
         <ul>
@@ -54,6 +52,7 @@
         </ul>
         {% endfor %}
       {% endif %}
+      {{ content }}
       </section>
       <footer>
         {% if site.github.is_project_page %}
