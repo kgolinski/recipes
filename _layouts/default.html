@@ -43,9 +43,8 @@
       {{ content }}
       
       {% if page.url == "/" %}
-        TU
         {% for cat in site.dirs %}
-        ### {{ cat.name }}
+        <h3 id="{{cat.dir}}">{{ cat.name }}</h3>
         <ul>
           {% for page in site.pages %}
             {% if page.dir == cat.dir %}
