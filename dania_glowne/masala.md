@@ -1,4 +1,4 @@
-# CHICKEN / TOFU BUTTER MASALA
+# Chicken / Tofu Butter Masala
 
 Marynata:
 

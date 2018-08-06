@@ -1,4 +1,4 @@
-# SAAG PANEER
+# Saag paneer
 
 ## Składniki
 

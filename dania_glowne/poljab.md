@@ -1,4 +1,4 @@
-# POLĘDWICA WIEPRZOWA W SOSIE MUSZTARDOWYM
+# Polędwica wieprzowa w sosie musztardowym
 
 ## Składniki
 
