@@ -1,6 +1,3 @@
----
-index: true
----
 ## Spis treści
 
 ### Zupy
