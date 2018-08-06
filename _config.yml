@@ -5,13 +5,13 @@ logo: /assets/img/logo.png
 show_downloads: false
 google_analytics: UA-634071-21
 dirs:
-  - name: Zupy
-    dir: /zupy/
-  - name: Dania główne
-    dir: /dania_glowne/
-  - name: Dodatki
-    dir: /dodatki/
-  - name: Desery
-    dir: /desery/
-  - name: Przetwory
-    dir: /przetwory/
+  - title: Zupy
+    name: /zupy/
+  - title: Dania główne
+    name: /dania_glowne/
+  - title: Dodatki
+    name: /dodatki/
+  - title: Desery
+    name: /desery/
+  - title: Przetwory
+    name: /przetwory/

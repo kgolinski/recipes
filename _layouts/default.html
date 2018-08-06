@@ -40,12 +40,12 @@
       </header>
       <section>
       {% if page.url == "/" %}
-        <h2 id="spis-treści">Spis treści</h2>
-        {% for cat in site.dirs %}
-        <h3 id="{{cat.dir}}">{{ cat.name }}</h3>
+        <h2 id="spis_tresci">Spis treści</h2>
+        {% for dir in site.dirs %}
+        <h3 id="{{dir.name}}">{{ dir.title }}</h3>
         <ul>
           {% for page in site.pages %}
-            {% if page.dir == cat.dir %}
+            {% if page.dir == dir.name %}
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
