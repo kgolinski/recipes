@@ -1,13 +1,19 @@
 # Ciasto cytrynowe
 
-Zagnieść ciasto:
-40 dkg mąki
-25 dkg margaryny
-10 dkg cukru
-2 łyżki śmietany
-1 łyżeczka proszku do pieczenia
+## Składniki 
 
-Upiec placek.
+### Ciasto 
+* [ ] 40 dkg mąki
+* [ ] 25 dkg margaryny
+* [ ] 10 dkg cukru
+* [ ] 2 łyżki śmietany
+* [ ] 1 łyżeczka proszku do pieczenia
+
+### Krem
+
+* [ ]
+
+Zagnieść ciasto. Upiec placek.
 
 Zetrzeć żółtą skórkę ( bez białego miąższu ) z trzech cytryn ( umytych i sparzonych ). ]
 Dodać sok wyciśnięty z cytryn i łyżkę mąki ziemniaczanej.

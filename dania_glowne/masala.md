@@ -1,6 +1,8 @@
 # Chicken / Tofu Butter Masala
 
-Marynata:
+## Składniki
+
+### Marynata:
 
 * [ ] 2 filety z piersi kurczaka / 2 opakowania tofu (najlepiej z panda)
 * [ ] 1/2 lyzki startego imbiru
@@ -12,7 +14,7 @@ Marynata:
 * [ ] sól
 * [ ] [hinduski barwnik spozywczy]
 
-Sos:
+### Sos:
 
 * [ ] 5 pomidorow
 * [ ] 1/2 szklanki zmielonych nerkowcow
