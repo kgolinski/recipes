@@ -9,7 +9,7 @@ Składniki:
 * ewentualnie 1-2 łyżki wody
 * szczypta soli morskiej
 * 1/2 szklanki kaszy jaglanej, sparzonej wrzątkiem
-* 3 szklanki mleka roślinnego, ja użyłam laskowego
+* 3 szklanki mleka roślinnego, np. laskowego
 * 1/4 szklanki brązowego cukru
 * 100 g gorzkiej czekolady
 * 3 łyżki delikatnego oleju

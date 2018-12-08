@@ -12,6 +12,7 @@ ocet balsamiczny
 oliwa
 cebula
 
-
 godzinke pomoczyc w wodzie z mlekiem
 
+
+z porem i wódką
