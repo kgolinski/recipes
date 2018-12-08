@@ -1,4 +1,4 @@
-# Ciasto na Pizze
+# Ciasto na Pizzę
 
 ## Składniki
 
