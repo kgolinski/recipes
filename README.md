@@ -13,6 +13,4 @@
 * Ogórki kiszone
 * Kapusta kiszona
 * Amok
-* Ciasto na pizze
-* pasta z fasoli
 * pasztet wegetarianski

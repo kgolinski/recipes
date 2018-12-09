@@ -1,7 +1,0 @@
-# Pasta z fasoli
-
-## Składniki
-
-* [ ]  
-* [ ] 
-* [ ]
