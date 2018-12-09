@@ -8,4 +8,4 @@
 * [ ] mąka
 * [ ] jajko
 
-Kminek przesmażyć na maśle. Wrzucić do wywaru, gotować 30 min. Przecedzić i zrobić lane kluseczki(jajko + mąka)
+Kminek przesmażyć na maśle. Wrzucić do wywaru, gotować 30 min. Przecedzić i zrobić lane kluseczki (jajko + mąka)

@@ -1,18 +1,17 @@
 # Paluchy drożdżowe
 
-Przepis na paluchy znalazłam w "Kuchni domowej...". Skoro już mam książki kucharskie, to trzeba też z nich korzystać ;) a nie tylko podziwiać na półce :D
-
 ## Składniki
-25 g drożdży
-150 ml wody
-2 łyżki oleju
-1/2 łyżeczki soli
-1 łyżeczka cukru
-1 jajko
-400 g mąki pszennej
-mleko do posmarowania paluchów
+* [ ] 25 g drożdży
+* [ ] 150 ml wody
+* [ ] 2 łyżki oleju
+* [ ] 1/2 łyżeczki soli
+* [ ] 1 łyżeczka cukru
+* [ ] 1 jajko
+* [ ] 400 g mąki pszennej
+* [ ] mleko do posmarowania paluchów
 
-Przygotowanie:
+### Przygotowanie
+
 W misce średniej wielkości rozkruszyć drożdże. Zalać je ciepłą wodą o temperaturze 37 stopni (prawie jak temperatura ludzkiego ciała) i mieszać do ich całkowitego rozpuszczenia. Dodać olej, sól, cukier, jajko i prawie całą potrzebną mąkę (trochę zostawić na później do ugniatania ciasta).
 Ciasto wyrabiać ręcznie do chwili, gdy stanie się gładkie i elastyczne (będzie odchodziło od ścianek miski). Miskę z wyrobionym ciastem przykryć ściereczką i odstawić do wyrośnięcia w ciepłe miejsce na 30 minut (z dala od przeciągów).
 Przygotować blachę do pieczenia paluchów - rozłożyć na niej papier do pieczenia lub matę silikonową albo nasmarować ją tłuszczem.
