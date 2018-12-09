@@ -10,12 +10,16 @@
 * [ ] 1 łyżeczka proszku do pieczenia
 
 ### Krem
-
-* [ ]
+* [ ] 3 cytryny
+* [ ] 1 łyżka mąki ziemniaczanej
+* [ ] 10 dkg margaryny
+* [ ] 40 dkg cukru
+* [ ] 4 jaja
+* [ ] 3 białka
 
 Zagnieść ciasto. Upiec placek.
 
-Zetrzeć żółtą skórkę ( bez białego miąższu ) z trzech cytryn ( umytych i sparzonych ). ]
+Zetrzeć żółtą skórkę ( bez białego miąższu ) z trzech cytryn ( umytych i sparzonych ).
 Dodać sok wyciśnięty z cytryn i łyżkę mąki ziemniaczanej.
 Zamieszać i odstawić.
 Utrzeć 10 dkg margaryny z 25 dkg cukru i 4 jajami. Dodać przygotowany sok. Mieszając drewnianą łyżką gotować trzy minuty.
