@@ -2,7 +2,7 @@
 
 ## Składniki
 
-# Ciasto
+### Ciasto
 
 * [ ] 75g drożdży
 * [ ] 1 łyżeczka cukru
@@ -13,7 +13,7 @@
 * [ ] 1/2kg mąki
 * [ ] 250g margaryny
 
-# Farsz
+### Farsz
 
 * [ ] 1kg kiszonej kapusty
 * [ ] 1kg białej kapusty
