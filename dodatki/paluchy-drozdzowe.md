@@ -1,6 +1,7 @@
 # Paluchy drożdżowe
 
 ## Składniki
+
 * [ ] 25 g drożdży
 * [ ] 150 ml wody
 * [ ] 2 łyżki oleju
@@ -10,7 +11,7 @@
 * [ ] 400 g mąki pszennej
 * [ ] mleko do posmarowania paluchów
 
-### Przygotowanie
+## Przygotowanie
 
 W misce średniej wielkości rozkruszyć drożdże. Zalać je ciepłą wodą o temperaturze 37 stopni (prawie jak temperatura ludzkiego ciała) i mieszać do ich całkowitego rozpuszczenia. Dodać olej, sól, cukier, jajko i prawie całą potrzebną mąkę (trochę zostawić na później do ugniatania ciasta).
 Ciasto wyrabiać ręcznie do chwili, gdy stanie się gładkie i elastyczne (będzie odchodziło od ścianek miski). Miskę z wyrobionym ciastem przykryć ściereczką i odstawić do wyrośnięcia w ciepłe miejsce na 30 minut (z dala od przeciągów).
