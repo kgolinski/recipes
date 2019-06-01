@@ -17,7 +17,7 @@
 * [ ] 100 g maki
 
 
-Drozdze rozetrzec z 1 lyzka cukru i wymieszac ze 100 ml cieplego mleka. Przykryć ściereczką i odstawić do wyrośnięcią w dosyć sporym naczyniu. Maslo roztopic w reszcie mleka.
+Drozdze rozetrzeć z 1 lyżką cukru i wymieszać ze 100 ml ciepłego mleka. Przykryć ściereczką i odstawić do wyrośnięcią w dosyć sporym naczyniu. Maslo roztopic w reszcie mleka.
 Mąkę, cukier, sól i cukier waniliowy rozmieszać w osobnej misce. Dodać jajko, wyrośnięte drozdze oraz ciepłe mleko z masłem i wyrobić ciasto.
 
 Zostawić do wyrośnięcia na ok. 1,5 h smarując wierzch ciasta oliwą. Przykryć bawełnianą ściereczką.
