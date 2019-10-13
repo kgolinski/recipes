@@ -6,7 +6,7 @@
 * [ ] 50 g mąki
 * [ ] 250 ml mleka
 * [ ] 1/2 łyżeczki soli
-* [ ] 100 g sera startego na tarce (Gruyere najlepszy lub inny o ostrym smaku)
+* [ ] 100 g ostrego sera startego na tarce
 * [ ] 4 jajka, osobno białka i żółtka
 * [ ] 1/4 łyżeczki gałki muszkatołowej
 * [ ] pieprz do smaku
@@ -22,4 +22,3 @@ Do masy sufletowej delikatnie przekładamy ubitą pianę z białek i mieszamy ł
 Masę przekładamy do kokilek do 3/4 wysokości (urosną!).
 Pieczemy 15-20 minut.
 Podajemy od razu (suflet opadnie w ciągu ok. 5 minut).
-Smacznego!
