@@ -1,6 +1,7 @@
 # Pikantna oliwa
 
-## Składniki:
+## Składniki
+
 * [ ] Dość duży słoik z hermetycznym zamknięciem
 * [ ] Oliwa z oliwek
 * [ ] Oliwki ( z pastą paprykową w środku lub bez, jak się lubi)
@@ -11,6 +12,8 @@
 * [ ] Świeża bazylia
 * [ ] takoż samo oregano
 * [ ] odrobina soli
+
+## Przygotowanie
 
 Kroimy jalapeno i czosnek, chilli odcinamy ogonki a oliwki przekrawamy na pół.
 Do słoika wrzucamy warstwami - wszystko co zielone, wszystko co białe, wszystko co czerwone aż do wypełnienia w 3/4.
