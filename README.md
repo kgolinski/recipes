@@ -7,7 +7,6 @@
 * Pierogi ruskie
 * Ryż do sushi
 * Konfitura francuska
-* Ogórki kiszone
 * Kapusta kiszona
 * Amok
 * Bun
