@@ -9,7 +9,7 @@ body {
 }
 a {
   color: #000;
-  &:hover {
+  &:hover, &:focus {
     color: #333;
   }
 }
