@@ -1,7 +1,8 @@
 title: Przepisy
 description: Książka kucharska
 theme: jekyll-theme-minimal
-logo: /assets/img/logo.png
+logo: /assets/img/cooking.svg
+logo_author: Tribhuvan Suthar
 show_downloads: false
 google_analytics: UA-634071-21
 dirs:
