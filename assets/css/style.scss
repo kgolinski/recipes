@@ -23,9 +23,11 @@ ul {
 
 ol {
   list-style-type: none;
-  counter-reset: item;
+  // counter-reset: item;
   padding-inline-start: 0;
-
+  &:first-of-type {
+    counter-reset: item;
+  }
   li {
     counter-increment: item;
 
