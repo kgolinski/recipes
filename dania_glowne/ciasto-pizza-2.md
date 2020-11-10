@@ -1,4 +1,4 @@
-# Ciasto na Pizzę
+# Ciasto na Pizzę Deluxe
 
 ## Składniki (na 4 pizze śr. 35cm)
 

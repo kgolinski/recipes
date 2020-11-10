@@ -3,8 +3,31 @@
 
 @import "{{ site.theme }}";
 
-h1 {
+body {
+  font-family: Inter, sans-serif;
+  font-weight: 300;
+}
+a {
+  color: #000;
+  &:hover {
+    color: #333;
+  }
+}
+ul {
+  padding-inline-start: 18px;
+  list-style-type: square;
+}
+h1, h2, h3 {
+  font-weight: 600;
   text-transform: uppercase;
+}
+h2 {
+  font-size: 1.4em;
+}
+h3 {
+  font-weight: 300;
+  border-bottom: 1px solid #000;
+  text-align: right;
 }
 
 .task-list {

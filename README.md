@@ -10,5 +10,9 @@
 * Ogórki kiszone
 * Kapusta kiszona
 * Amok
+* Bun
 * pasztet wegetarianski
 * migdaly z tymiankiem
+* Ryba po grecku
+* Gofry belgijskie
+* Jabłecznik
