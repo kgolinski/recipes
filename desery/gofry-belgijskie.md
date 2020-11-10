@@ -18,7 +18,9 @@ Mleko podgrzać do temperatury ok. 40°C. Drożdże wymieszać z mlekiem.
 Do miski wsypać mąkę, sól, cukier waniliowy, wbić jajko i dodać żółtko.
 Wymieszać składniki, po czym dodać mleko z drożdżami.
 Zagnieść i zostawić na 30 minut, by wyrosło.
+
 Dodać masło w małych kawałkach (w temperaturze pokojowej). Zagnieść.
 Wrzucić cukier perlisty, wymieszać i odstawić na 15 minut.
+
 Nakładać czubatą łyżkę ciasta i piec 2-2.5 minuty.
 Odłożyć na 5 minut żeby gofry zrobiły się chrupkie.
