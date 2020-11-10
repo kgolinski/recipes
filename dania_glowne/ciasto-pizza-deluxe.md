@@ -1,6 +1,6 @@
 # Ciasto na Pizzę Deluxe
 
-## Składniki (na 4 pizze śr. 35cm)
+## Składniki (na 4 pizze o średnicy 35cm)
 
 * [ ] 795g mąki pszennej typ 00
 * [ ] 495g wody

@@ -15,6 +15,8 @@
 * [ ] 1 łyżka soku z cytryny
 * [ ] 375 ml mleka (krowiego lub kokosowego)
 
+## Przygotowanie
+
 W dużym szerokim garnku roztopić masło lub podgrzać olej, dodać pokrojoną w kosteczkę cebulę i zeszklić ją. Dodać czosnek pokrojony na plasterki a po minucie pory pokrojone na kawałeczki. Wlać oliwę extra vergine i dusić przez przez około 7 minut mieszając od czasu do czasu aż pory nieco zmiękną.
 
 Następnie dodać obraną i pokrojoną na kawałeczki marchewkę, cukier, czerwoną paprykę i sól (jeśli będziemy używać słonego bulionu, zupę solimy do smaku na sam koniec). Dusić warzywa mieszając co jakiś czas przez około 7 minut. Wlać bulion, zagotować na większym ogniu. Zmniejszyć ogień do małego, przykryć garnek i gotować przez około 30 - 45 minut, aż marchewka będzie miękka.

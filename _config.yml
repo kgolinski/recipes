@@ -16,3 +16,5 @@ dirs:
     name: /desery/
   - title: Przetwory
     name: /przetwory/
+  - title: Notatki
+    name: /notatki/

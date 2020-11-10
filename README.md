@@ -15,3 +15,5 @@
 * migdaly z tymiankiem
 * Ryba po grecku
 * Jabłecznik
+* Mazurki
+* Risotto z burakiem

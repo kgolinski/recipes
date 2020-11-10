@@ -6,7 +6,7 @@
 - Typ 450 – Mąka Tortowa (do biszkoptów)
 - Typ 480 – Mąka Szadkowska
 - Typ 500 – m.in. Mąka Poznańska i Mąka Wrocławska (uniwersalna)
-- Typ 550 – Mąka Luksusowa (ciasta drożdżowe)
+- Typ 550 – Mąka Luksusowa (do ciasta drożdżowego)
 - Typ 650 – Mąka Bułkowa
 - Typ 750 i Typ 850 – Mąka Chlebowa
 - Typ 1400 – Mąka Sitkowa
