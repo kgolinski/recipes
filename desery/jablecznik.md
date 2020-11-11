@@ -1,21 +1,23 @@
-Ciasto:
+# Jabłecznik
+
+## Składniki
+
+- [ ] 1 kg jabłek
+- [ ] 1 łyżeczka cynamonu
+- [ ] skórka otarta z jednej cytryny
+- [ ] sok wyciśnięty z jednej cytryny
+- [ ] 4 jajka
+- [ ] 200 g cukru
+- [ ] 250 g oleju roślinnego np. rzepakowego
+- [ ] 250 g mąki pszennej
+- [ ] 2 łyżeczki proszku do pieczenia
+- [ ] 2 łyżeczki cukru waniliowego
+- [ ] cukier puder do posypania
 
 Wszystkie składniki na ciasto powinny mieć temperaturę pokojową.
 
-1 kg jabłek
-1 łyżeczka cynamonu
-skórka otarta z jednej cytryny
-sok wyciśnięty z jednej cytryny
-4 jajka
-200 g cukru
-250 g oleju roślinnego np. rzepakowego
-250 g mąki pszennej
-2 łyżeczki proszku do pieczenia
-2 łyżeczki cukru waniliowego
-Dodatkowo:
+## Przygotowanie
 
-cukier puder do posypania
-Sposób przygotowania:
 Dno tortownicy o średnicy 26 cm wyłożyć papierem do pieczenia, a następnie zacisnąć obręcz. Odstawić na bok.
 Jabłka umyć, osuszyć, obrać, przekroić na ćwiartki, wydrążyć gniazda nasienne i pokroić w bardzo cienkie plasterki.
 2
