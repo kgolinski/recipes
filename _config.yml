@@ -2,6 +2,7 @@ title: Przepisy
 description: Książka kucharska
 theme: jekyll-theme-minimal
 logo: /assets/img/sushi.svg
+logo_raster: /assets/img/sushi.png
 logo_source: Freepik
 show_downloads: false
 google_analytics: UA-634071-21

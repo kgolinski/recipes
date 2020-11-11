@@ -8,12 +8,10 @@
     <meta property="og:title" content="{% if page.url == "/" %} {{ site.title }} {% else %} {{ page.title }} {% endif %}" />
     <meta property="og:site_name" content="{{site.title}}" />
     <meta property="og:description" content="{{site.description}}" />
-
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta property="og:image" content="{{ site.logo | absolute_url }}" />
+    <meta property="og:image" content="{{ site.logo_raster | absolute_url }}" />
     <meta property="og:locale" content="{{site.lang}}" />
-
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
     <title>{% if page.url == "/" %} {{ site.title }} {% else %} {{ site.title }} - {{ page.title }} {% endif %}</title>
