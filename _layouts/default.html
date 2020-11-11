@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="{% if page.url == "/" %} {{ site.title }} {% else %} {{ site.title }} - {{ page.title }} {% endif %}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://przepisy.golinski.org{{page.url}}" />
+    <meta property="og:image" content="http://przepisy.golinski.org{{site.logo | relative_url}}" />
+
     <title>{% if page.url == "/" %} {{ site.title }} {% else %} {{ site.title }} - {{ page.title }} {% endif %}</title>
     {% seo title=false %}
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@300;600&display=swap" rel="stylesheet">
