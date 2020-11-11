@@ -1,14 +1,14 @@
 # Ogórki kiszone
 
-## Składniki (na 1 litrowy słoik - ale warto zrobić więcej)
+## Składniki (na 2 litrowe słoiki - ale warto zrobić więcej)
 
-- [ ] Ogórki gruntowe
+- [ ] 1kg ogórków gruntowych
 - [ ] Czubata łyżka soli
 - [ ] 1L wody
 - [ ] zestaw do kiszenia (koper, korzeń chrzanu, czosnek)
 
-W słoiku umieścić ogórki pionowo - wcisnąć ile sie da.
-Dodać 1-2 ząbki czosnku, 2 nieduże kawałki chrzanu i gałązkę kopru.
+W słoikach umieścić ogórki pionowo - wcisnąć ile sie da.
+DO każdego słoika dodać 1-2 ząbki czosnku, 2 nieduże kawałki chrzanu i gałązkę kopru
 
-Rozpuścić sól w gorącej wodzie i zalać ogórki tak żeby nie wystawały ponad powierzchnię wody.
+Rozpuścić sól w gorącej wodzie i zalać ogórki tak żeby nie wystawały ponad powierzchnięs.
 Zakręcić. Po tygodniu można wcinać.
