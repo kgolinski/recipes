@@ -5,6 +5,8 @@ logo: /assets/img/sushi.svg
 logo_source: Freepik
 show_downloads: false
 google_analytics: UA-634071-21
+author: Krzysztof Goliński
+lang: pl_PL
 dirs:
   - title: Zupy
     name: /zupy/
