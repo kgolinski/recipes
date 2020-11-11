@@ -9,11 +9,9 @@
 * Konfitura francuska
 * Kapusta kiszona
 * Amok
-* Bun
 * pasztet wegetarianski
 * migdaly z tymiankiem
 * Ryba po grecku
-* Jabłecznik
 * Mazurki
 * Risotto z burakiem
-* miary kuchenne
+* Miary kuchenne
