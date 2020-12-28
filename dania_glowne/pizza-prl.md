@@ -1,4 +1,4 @@
-# Pizza z PRL (z lat 80)
+# Pizza PRL (z lat 80)
 
 ## Składniki
 
