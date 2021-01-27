@@ -1,4 +1,4 @@
-# Chleb pszenno-gryczany
+# Chleb pszenno-żytni na zakwasie
 
 ## Składniki
 
