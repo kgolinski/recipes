@@ -4,7 +4,7 @@
 
 - [ ] 1 kg mięsa wołowego (najlepiej krzyżowa)
 - [ ] szczypta gorczycy, kolendry, kminku
-- [ ] szczypta ostrej papryki, świeżo startej gałki muszkatołowej, soli, pieprzu
+- [ ] szczypta ostrej papryki, świeżo startej gałki muszkatołowej
 - [ ] 2 łyżki oleju
 - [ ] 1 ząbek czosnku
 - [ ] 1 cebula
