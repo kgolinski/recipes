@@ -4,7 +4,7 @@
 
 - [ ] 1 kg mięsa wołowego (najlepiej krzyżowa)
 - [ ] szczypta gorczycy, kolendry, kminku
-- [ ] szczypta ostrej papryki, świeżo startej gałki muszkatołowej
+- [ ] szczypta ostrej papryki, gałki muszkatołowej
 - [ ] 2 łyżki oleju
 - [ ] 1 ząbek czosnku
 - [ ] 1 cebula
@@ -19,7 +19,7 @@
 
 ## Przygotowanie
 
-Gorczycę, kolendrę i kminek utrzeć w moździerzu, dodać paprykę, gałkę, szczyptę soli i pieprzu zalać dwiema łyżkami oleju.
+Gorczycę, kolendrę i kminek utrzeć w moździerzu, dodać paprykę, świeżo startą gałkę, szczyptę soli i pieprzu zalać dwiema łyżkami oleju.
 
 Mięso pokroić na plastry około 1cm. Rozbić tłuczkiem (najlepiej przez folię żeby nie upaskudzić całej kuchni). Natrzeć mięso przygotowaną pastą i marynować w plastikowym pudełku całą noc w lodówce.
 
